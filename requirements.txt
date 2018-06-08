@@ -1,5 +1,5 @@
-sudo
-pip
+python
 discord.py
+psutil
 youtube_dl
 imgurpython
